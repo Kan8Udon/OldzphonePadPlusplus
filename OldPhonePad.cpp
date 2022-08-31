@@ -116,7 +116,7 @@ class Pad {
 
 
 		string typePad() {
-			string oLetter;										// store character
+			string oLetter;								// store character
 			string oNum1;										
 			string oNum2;
 						
